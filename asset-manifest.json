@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://imammlydi.github.io/csb-qg2p5/static/css/main.7263b0ea.chunk.css",
+    "main.js": "https://imammlydi.github.io/csb-qg2p5/static/js/main.49293546.chunk.js",
+    "main.js.map": "https://imammlydi.github.io/csb-qg2p5/static/js/main.49293546.chunk.js.map",
+    "runtime-main.js": "https://imammlydi.github.io/csb-qg2p5/static/js/runtime-main.fd6869ec.js",
+    "runtime-main.js.map": "https://imammlydi.github.io/csb-qg2p5/static/js/runtime-main.fd6869ec.js.map",
+    "static/css/2.4c34b247.chunk.css": "https://imammlydi.github.io/csb-qg2p5/static/css/2.4c34b247.chunk.css",
+    "static/js/2.844e835a.chunk.js": "https://imammlydi.github.io/csb-qg2p5/static/js/2.844e835a.chunk.js",
+    "static/js/2.844e835a.chunk.js.map": "https://imammlydi.github.io/csb-qg2p5/static/js/2.844e835a.chunk.js.map",
+    "index.html": "https://imammlydi.github.io/csb-qg2p5/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "https://imammlydi.github.io/csb-qg2p5/static/css/2.4c34b247.chunk.css.map",
+    "static/css/main.7263b0ea.chunk.css.map": "https://imammlydi.github.io/csb-qg2p5/static/css/main.7263b0ea.chunk.css.map",
+    "static/js/2.844e835a.chunk.js.LICENSE.txt": "https://imammlydi.github.io/csb-qg2p5/static/js/2.844e835a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd6869ec.js",
+    "static/css/2.4c34b247.chunk.css",
+    "static/js/2.844e835a.chunk.js",
+    "static/css/main.7263b0ea.chunk.css",
+    "static/js/main.49293546.chunk.js"
+  ]
+}
